@@ -1,1 +1,1 @@
-# SWAYAM-NPTEL-DL-for-Computer-Vision-2021
+# SWAYAM-NPTEL-DL for Computer Vision-2021
